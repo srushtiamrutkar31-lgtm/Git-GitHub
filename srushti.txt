@@ -1,0 +1,3 @@
+Hello, My name is Srushti.
+I am currently pursuing B.Tech in Artificial Intelligance & Data Science.
+Git is a version control system.
